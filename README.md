@@ -6,6 +6,8 @@
 
 # Nuestro código
 
+**HTML**
+
 ```html
 <div class="card" id="profile-card">
   <div class="card-header">
@@ -36,6 +38,7 @@
 <div id="message" class="message hidden">¡Gracias por tu interés! Te contactaré pronto.</div>
 ```
 
+**CSS**
 
 ```css
 :root {
@@ -204,6 +207,8 @@ body {
 }
 
 ```
+
+**JavaScript**
 
 ```javascript
 // Seleccionar elementos
